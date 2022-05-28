@@ -48,20 +48,19 @@
 <img align="left" alt="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
 
 <!-- GITHub -->
-<img align="left" alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <!-- Bash -->
 <img align="left" alt="bash" width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
-
-<!-- ZSH -->
-<img align="left" alt="zsh" width="60" height="30" src="/Images/oh-my-zsh.jpg" /> 
 
 <!-- MS SQL -->
 <img align="left"  alt="mssql" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
  
  <!-- Udemy -->
 <img align="left"  alt="Udemy" width="30px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg"/>
-  
+
+<!-- ZSH -->
+<img align="left" alt="zsh" width="80" height="30" src="/Images/oh-my-zsh.jpg" />  
   
   
 <!-- Terminal 
@@ -84,7 +83,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodebyCR&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact)](https://github.com/CodebyCR/github-readme-stats)
-<a  src="https://ionicabizau.github.io/github-profile-languages/api.html?CodebyCR" />
+
 
 <!--
 
@@ -93,4 +92,5 @@ https://www.markdownguide.org/cheat-sheet
 
 
 https://github.com/IonicaBizau/github-profile-languages
+<a  src="https://ionicabizau.github.io/github-profile-languages/api.html?CodebyCR" />
 -->
