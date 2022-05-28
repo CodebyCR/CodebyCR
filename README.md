@@ -53,12 +53,14 @@
 <!-- Bash -->
 <img align="left" alt="bash" width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
 
-<!-- ZSH 
-<img align="left" alt="zsh" width="30" src="/Images/oh-my-zsh.jpg" /> 
--->
+<!-- ZSH -->
+<img align="left" alt="zsh" width="60" height="30" src="/Images/oh-my-zsh.jpg" /> 
 
 <!-- MS SQL -->
-<img align="left"  alt="mssql" width="60px" height="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+<img align="left"  alt="mssql" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+ 
+ <!-- Udemy -->
+<img align="left"  alt="Udemy" width="30px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg"/>
   
   
   
