@@ -32,6 +32,9 @@
 <!-- align="left"-->
 
 
+<!-- Eclipse -->
+<img align="left" alt="Eclipse" width="30" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
+
 <!-- Xcode -->
 <img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
 
