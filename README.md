@@ -15,7 +15,7 @@
 <img align="left" alt="java" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
 <!-- C++ -->
-<img align="left" alt="C Plus Plus" width="30" src="https://github.com/landonviator/landonviator/blob/main/Images/c%2B%2B.png" />
+<img align="left" alt="C Plus Plus" width="30" src="/Images/c++.png" />
   
 <!-- Swift -->
 <img align="left" alt="swift" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/> 
@@ -33,13 +33,13 @@
 
 
 <!-- Xcode -->
-<img align="left" alt="XCode" width="30" src="https://github.com/landonviator/landonviator/blob/main/Images/xcode.png" />
+<img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
 
 <!-- VS Code -->
 <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <!-- Juce -->
-<img align="left" alt="Juce" width="30" src="https://github.com/landonviator/landonviator/blob/main/Images/juce.png" />
+<img align="left" alt="Juce" width="30" src="/Images/juce.png" />
 
 <!-- GIT -->
 <img align="left" alt="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
@@ -50,8 +50,14 @@
 <!-- Bash -->
 <img align="left" alt="bash" width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
 
+<!-- ZSH 
+<img align="left" alt="zsh" width="30" src="/Images/oh-my-zsh.jpg" /> 
+-->
+
 <!-- MS SQL -->
-<img align="left"  alt="mssql" width="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+<img align="left"  alt="mssql" width="60px" height="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+  
+  
   
 <!-- Terminal 
 <img align="left" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
