@@ -83,13 +83,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodebyCR&show_icons=true&theme=tokyonight)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact)](https://github.com/CodebyCR/github-readme-stats)
-
+<a  src="https://ionicabizau.github.io/github-profile-languages/api.html?CodebyCR" />
 
 <!--
 
 Markdown Cheate Sheet:
 https://www.markdownguide.org/cheat-sheet
 
+
+https://github.com/IonicaBizau/github-profile-languages
 -->
