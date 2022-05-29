@@ -1,5 +1,4 @@
 # Hi there, I'm [Christoph](https://github.com/CodebyCR) 👋
-<br/>
 
 - 😄 I'm a Java programmer by profession.
 - 🎶 I love making HipHop / Urban style beats. #TeamProTools #TeamLogic
