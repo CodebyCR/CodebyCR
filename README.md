@@ -1,6 +1,6 @@
 # Hi there, I'm [Christoph](https://github.com/CodebyCR) 👋
 
-- 😄 I'm a Java programmer by profession.
+- 😄 I'm a full stack Java programmer by profession.
 - ✔️ Coding in C++, Python or Swift is my hobby, but I'm interested in new syntaxes at any time.
 - 🎶 I love making HipHop / Urban style beats. #TeamProTools #TeamLogic 
 - 🐶 I'm a Dog dad. 
