@@ -1,15 +1,14 @@
 # Hi there, I'm [Christoph](https://github.com/CodebyCR) 👋
 
 - 😄 I'm a full stack Java programmer by profession.
-- ✔️ Coding in C++, Python or Swift is my hobby, but I'm interested in new syntaxes at any time.
-- 🎶 I love making HipHop / Urban style beats. #TeamProTools #TeamLogic 
+- ✔️ I love to code in C++, Python or Swift, but I'm interested in new syntaxes at any time.
+- 🎶 I'm beatmaker.
 - 🐶 I'm a Dog dad. 
 
 <br/>
 <br/>
 
-## Languages and Tools:
-
+## ⚒ Languages and Tools:
 <!-- Java -->
 <img align="left" alt="java" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
@@ -49,6 +48,7 @@
 <!-- GITHub -->
 <img alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
 <!-- Bash -->
 <img align="left" alt="bash" width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
 
@@ -60,7 +60,7 @@
 
 <!-- ZSH -->
 <img align="left" alt="zsh" width="80" height="30" src="/Images/oh-my-zsh.jpg" />  
-  
+
   
 <!-- Terminal 
 <img align="left" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-## My Stats:
+## 📊  My Stats:
 <div>
   <a href="https://github.com/CodebyCR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebyCR&count_private=false&theme=prussian&show_icons=true"/>
