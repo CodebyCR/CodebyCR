@@ -78,17 +78,17 @@
 <br/>
 
 ## My Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodebyCR&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact)](https://github.com/CodebyCR/github-readme-stats)
-
-
-## Connect Me:
-
+<div>
+  <a href="https://github.com/CodebyCR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebyCR&count_private=false&theme=prussian&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=jupyter notebook"/>
+</div>
 
 
 <!--
+
+## Connect Me:
+
 
 Markdown Cheate Sheet:
 https://www.markdownguide.org/cheat-sheet
