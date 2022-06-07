@@ -1,4 +1,4 @@
-# Hi there, I'm [Christoph](https://github.com/CodebyCR) 👋
+<h1 align="center"> Hi there, I'm Christoph 👋 </h1>
 
 - 😄 I'm a full stack Java programmer by profession.
 - ✔️ I love to code in C++, Python or Swift, but I'm interested in new syntaxes at any time.
@@ -84,10 +84,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=jupyter notebook"/>
 </div>
 
-
+## ✉️ Connect Me:  
+  ![My GitHub](https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=Follow%20Me)
 <!--
 
-## Connect Me:
+
 
 
 Markdown Cheate Sheet:
