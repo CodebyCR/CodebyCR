@@ -35,8 +35,13 @@
 <!-- align="left"-->
 
 
-<!-- Eclipse -->
+<!-- Intellij -->
+<img align="left" alt="Jet Brains IDEs" width="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
+
+<!-- Eclipse 
+@depricated
 <img align="left" alt="Eclipse" width="30" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
+-->
 
 <!-- Xcode -->
 <img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
