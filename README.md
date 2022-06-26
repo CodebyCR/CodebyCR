@@ -88,7 +88,12 @@
 <br/>
 
 
-
+## 📊  My Stats:
+<div>
+  <a href="https://github.com/CodebyCR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodebyCR&count_private=false&theme=prussian&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=jupyter notebook"/>
+</div>
 
 <!--
 
