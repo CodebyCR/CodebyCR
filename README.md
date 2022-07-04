@@ -9,7 +9,7 @@
 
   
 ## ✉️ Connect Me:  
-![My GitHub](https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=Follow%20Me)
+![My GitHub](https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=My%20GitHub)
 
 <br/>
 
