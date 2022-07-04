@@ -10,8 +10,8 @@
   
 ## ✉️ Connect Me:  
 <div > 
-  <a href="[https://github.com/CodebyCR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCodebyCR)">
-  <img src="https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=My%20GitHub"/>
+  <img src="https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=My%20GitHub" 
+       href="[https://github.com/CodebyCR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCodebyCR)"/>
 </div>
   
 <br/>
