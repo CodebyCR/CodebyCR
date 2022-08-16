@@ -106,7 +106,7 @@
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=jupyter notebook"/>
   -->
-   <img  alt="CodebyCR" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=html,css"/>
+   <img  alt="CodebyCR" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=html,css"/>
 </div>
 
 <!--
