@@ -2,7 +2,6 @@
 
 - 😄 I'm a full stack Java programmer by profession.
 - ✔️ I love to code in C++, Python or Swift, but I'm interested in new syntaxes at any time.
-- 🎶 I'm beatmaker.
 - 🐶 I'm a Dog dad. 
 
 <br/>
