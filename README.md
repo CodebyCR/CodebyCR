@@ -19,11 +19,12 @@
 
 
 ## 👨🏻‍💻 Syntaxes I am working with:
-<!-- C++ -->
-<img align="left" alt="C Plus Plus" width="30" src="/Images/c++.png" />
 
 <!-- Java -->
 <img align="left" alt="java" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+
+<!-- C++ -->
+<img align="left" alt="C Plus Plus" width="30" src="/Images/c++.png" />
 
 <!-- Python  -->
 <img align="left" alt="python" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
