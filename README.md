@@ -15,7 +15,7 @@
  
 </div>
       
-![Profile Views](https://komarev.com/ghpvc/?username=CodebyCR&color=green)
+
 <br/>
 <br/>
 
