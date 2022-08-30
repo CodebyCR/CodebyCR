@@ -52,11 +52,6 @@
 <!-- Intellij -->
 <img align="left" alt="Jet Brains IDEs" width="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
 
-<!-- Eclipse 
-@depricated
-<img align="left" alt="Eclipse" width="30" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" />
--->
-
 <!-- Xcode -->
 <img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
 
@@ -111,12 +106,9 @@
   <img  height="180em"  alt="CodebyCR"  src="https://github-readme-stats.vercel.app/api/top-langs?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=html,css"/>
 </div>
 
-  <!--
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=jupyter notebook"/>
-  -->
+
 
 <!--
 Markdown Cheate Sheet:
 https://www.markdownguide.org/cheat-sheet
-
 -->
