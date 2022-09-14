@@ -70,9 +70,6 @@
  <!-- Udemy -->
 <img align="left"  alt="Udemy" width="30px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg"/>
 
-<!-- ZSH -->
-<img align="left" alt="zsh" width="80" height="30" src="/Images/oh-my-zsh.jpg" />  
-
 <!-- Anaconda -->
 <img align="left" alt="Anaconda" height="30" src="/Images/anaconda.png" />
 
