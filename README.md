@@ -8,14 +8,18 @@
 
   
 ## ✉️ Connect Me:  
-<div > 
-  <img src="https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=My%20GitHub" 
+<!--
+        <img src="https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=My%20GitHub" 
        href="[https://github.com/CodebyCR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCodebyCR)"/>
-       
- 
-</div>
-      
+-->
 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+
+<!--![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white) -->
+
+<!--![GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CodeByCR}&theme=vue) -->
 <br/>
 <br/>
 
@@ -52,11 +56,11 @@
 <!-- Intellij -->
 <img align="left" alt="Jet Brains IDEs" width="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
 
-<!-- Xcode -->
-<img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
-
 <!-- VS Code -->
 <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<!-- Xcode -->
+<img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
 
 <!-- Juce -->
 <img align="left" alt="Juce" width="30" src="/Images/juce.png" />
