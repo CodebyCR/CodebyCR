@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, I'm Christoph 👋 </h1>
 
 - 😄 I'm a full stack Java programmer by profession.
-- ✔️ I love to code in C++, Python or Swift, but I'm interested in new syntaxes at any time.
 - 🐶 I'm a Dog dad. 
+- ✔️ I love to code in C++, Python and Swift, but I'm interested in new syntaxes at any time.
 
 <br/>
 
@@ -24,8 +24,13 @@
   
 </div>
 
-<!--![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white) -->
-<!--![GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CodeByCR}&theme=vue) -->
+<!--
+![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CodeByCR}&theme=vue" href="" />
+
+-->
+
+
 <br/>
 <br/>
 
