@@ -18,10 +18,10 @@
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
        href="[My LinkedIn](https://www.linkedin.com/in/christoph-rohde-711013261?original_referer=))"/>
 
-
-  <img align="left" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
-       href="[My Reddit](https://reddit.com/user/Minimum_Shirt_157)"/>
-
+  <div align="left" href="https://reddit.com/user/Minimum_Shirt_157">
+    <img  src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </div>
+  
 </div>
 
 <!--![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white) -->
