@@ -8,17 +8,23 @@
 
   
 ## ✉️ Connect Me:  
-<!--
-        <img src="https://img.shields.io/github/followers/CodebyCR.svg?style=social&label=My%20GitHub" 
-       href="[https://github.com/CodebyCR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCodebyCR)"/>
--->
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding: 0px 30px;">
+  
+   <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+       href="[https://github.com/CodebyCR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCodebyCR)"/>
+
+
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+       href="[My LinkedIn](https://www.linkedin.com/in/christoph-rohde-711013261?original_referer=))"/>
+
+
+  <img align="left" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" 
+       href="[My Reddit](https://reddit.com/user/Minimum_Shirt_157)"/>
+
+</div>
 
 <!--![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white) -->
-
 <!--![GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CodeByCR}&theme=vue) -->
 <br/>
 <br/>
