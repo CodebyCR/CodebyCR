@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, I'm Christoph 👋 </h1>
 
-- 😄 I'm a full stack Java programmer by profession.
-- 🐶 I'm a Dog dad. 
-- ✔️ I love to code in C++, Python and Swift, but I'm interested in new syntaxes at any time.
+### 😄 I'm a full stack Java programmer by profession.
+### 🐶 I'm a Dog dad. 
+### ✔️ I love to code in C++, Python and Swift, but I'm interested in new syntaxes at any time.
 
 <br/>
 
