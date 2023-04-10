@@ -92,7 +92,10 @@
 <img align="left" alt="Jupyther Notebook" height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
 
 <!-- CMake -->
-<img alt="CMake" height="30" src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" />
+<img align="left" alt="CMake" height="30" src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" />
+
+<!-- Bazel -->
+<img align="left" alt="Bazel" height="30" src="https://www.vectorlogo.zone/logos/bazel/bazel-icon.svg" />
   
 <!-- Terminal 
 <img align="left" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
