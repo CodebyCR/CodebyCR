@@ -76,14 +76,8 @@
 <!-- Juce -->
 <img align="left" alt="Juce" width="30" src="/Images/juce.png" />
 
-<!-- GIT -->
-<img align="left" alt="Git" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
-
 <!-- GITHub -->
 <img align="left" alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
- <!-- Udemy -->
-<img align="left"  alt="Udemy" width="30px" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg"/>
 
 <!-- Anaconda -->
 <img align="left" alt="Anaconda" height="30" src="/Images/anaconda.png" />
@@ -95,7 +89,7 @@
 <img align="left" alt="CMake" height="30" src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" />
 
 <!-- Bazel -->
-<img align="left" alt="Bazel" height="30" src="https://www.vectorlogo.zone/logos/bazel/bazel-icon.svg" />
+<img alt="Bazel" height="30" src="https://www.vectorlogo.zone/logos/bazel/bazel-icon.svg" />
   
 <!-- Terminal 
 <img align="left" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
