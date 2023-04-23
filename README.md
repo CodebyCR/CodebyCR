@@ -22,6 +22,13 @@
     <img  src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </div>
   
+  <!--
+  <a href="[My LinkedIn](https://www.linkedin.com/in/christoph-rohde-711013261?original_referer=))">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+-->
+
+  
 </div>
 
 <!--
