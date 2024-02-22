@@ -1,45 +1,10 @@
 <h1 align="center"> Hi there, I'm Christoph 👋 </h1>
 
-### 😄 I'm a full stack Java programmer by profession.
-### 🐶 I'm a Dog dad. 
-### ✔️ I love to code in C++, Python and Swift, but I'm interested in new syntaxes at any time.
-
-<br/>
-
-  
-## ✉️ Connect Me:  
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; padding: 0px 30px;">
-  
-   <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-       href="[https://github.com/CodebyCR](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCodebyCR)"/>
-
-
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-       href="[My LinkedIn](https://www.linkedin.com/in/christoph-rohde-711013261?original_referer=))"/>
-
-  <div align="left" href="https://reddit.com/user/Minimum_Shirt_157">
-    <img  src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-  </div>
-  
-  <!--
-  <a href="[My LinkedIn](https://www.linkedin.com/in/christoph-rohde-711013261?original_referer=))">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
--->
-
-  
-</div>
-
 <!--
 ![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CodeByCR}&theme=vue" href="" />
 
 -->
-
-
-<br/>
-<br/>
 
 
 ## 👨🏻‍💻 Syntaxes I am working with:
