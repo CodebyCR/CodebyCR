@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Christoph 👋</h1>
-<h3 align="center">iOS / Swift Developer based in Germany</h3>
 <!--
+<h3 align="center">iOS / Swift Developer based in Germany</h3>
+
 <p align="center">
   I build native Apple apps and backend tooling in Swift — currently exploring coffee-obsessed side projects and developer productivity tools.
 </p>
