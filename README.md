@@ -1,69 +1,49 @@
-<h1 align="center"> Hi, I'm Christoph 👋 </h1>
-
+<h1 align="center">Hi, I'm Christoph 👋</h1>
+<h3 align="center">iOS / Swift Developer based in Germany</h3>
 <!--
-![GitHub](https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white)
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={CodeByCR}&theme=vue" href="" />
-
+<p align="center">
+  I build native Apple apps and backend tooling in Swift — currently exploring coffee-obsessed side projects and developer productivity tools.
+</p>
 -->
-<br/>
 
-## ⚒ Favorite Tools
+<p align="center">
+  <a href="https://www.linkedin.com/in/christoph-rohde-711013261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@chriskncmalibu">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
 
+---
 
-<!-- Swift -->
-<img align="left" alt="swift" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/> 
+### 🛠 Tech Stack
 
-<!-- C++ -->
-<img align="left" alt="C Plus Plus" width="30" src="/Images/c++.png" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
-<!-- Java -->
-<img align="left" alt="java" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-<!-- HTML -->
-<img align="left" alt="HTML5" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+---
 
-<!-- CSS -->
-<img align="left" alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<!-- Bash -->
-<img  alt="bash" width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
-
-<!-- Intellij -->
-<img align="left" alt="Jet Brains IDEs" width="30" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" />
-
-<!-- Xcode -->
-<img align="left" alt="XCode" width="30" src="/Images/xcode.png" />
-
-<!-- VS Code -->
-<img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
- 
-<!-- Terminal 
-<img align="left" alt="Terminal" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" /> 
-  
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" /> 
-
- Tensorflow
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" /> </a>
-
--->  
-  
-<br/>
-<br/>
-
-## 📊  My Stats:
-<div>
-  <a href="https://github.com/CodebyCR">
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=CodebyCR&count_private=false&theme=prussian&show_icons=true"/>
-
-  <img height="200em" alt="CodebyCR" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=html,css"/>
-</div>
-
-
-
+### 📊 GitHub Stats
 <!--
-Markdown Cheate Sheet:
-https://www.markdownguide.org/cheat-sheet
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CodebyCR&count_private=false&theme=prussian&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodebyCR&layout=compact&langs_count=8&theme=prussian&hide=html,css"/>
+</p>
 -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodebyCR&theme=prussian" alt="GitHub Streak"/>
+</p>
